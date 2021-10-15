@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\jayss\Documents\개발뚜벅이\생코독학&복습(Java)\.metadata\.plugins\org.eclipse.jdt.core
+3211529455.index
+2350419489.index
